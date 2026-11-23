@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Lidless</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Sun, 22 Nov 2026 18:36:28 -0500</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/EricBellamy/Lidless/releases/download/lidless-v1.0.0-2/Lidless-1.0.0-2.zip" length="1368032" type="application/octet-stream" sparkle:edSignature="OT/hOSxtAGwi1FnhTXt3EBiRr5B8I/4OlOfZ+/tEaYDY7O4BqbcNivm7QXeybakuFOZ4QGKKSS542UmqS6M4CA=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: QG2VKsiUpusQxWj44re9+K/x8Ad2GB1LddJxxikG0ipAUuSLqZIRKbskUW0UxkWZudGnyz7YJ/VkKb9QyUXLAw==
+length: 1132
+-->

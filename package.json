@@ -1,0 +1,7 @@
+{
+  "name": "lidless-distribution",
+  "private": true,
+  "devDependencies": {
+    "wrangler": "4.151.1"
+  }
+}
