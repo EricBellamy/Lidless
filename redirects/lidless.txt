@@ -1,1 +1,1 @@
-/lidless/Lidless.dmg https://github.com/EricBellamy/Lidless/releases/download/lidless-v1.0.0-2/Lidless-1.0.0-2-arm64.dmg 302
+/lidless/Lidless.dmg https://github.com/EricBellamy/Lidless/releases/download/lidless-v1.0.1-3/Lidless-1.0.1-3-arm64.dmg 302

@@ -4,5 +4,11 @@
     "archive_sha256": "a29c1a5001b2f27a452903a4c5a24e8e6dfc18e3ec9e71e851ecb7c89d3b3a3b",
     "source_commit": "5a206cfa0e0ee924986eda4467a5be2d0aa26f2b",
     "version": "1.0.0"
+  },
+  "3": {
+    "app_cdhash": "722b69212f55c7457f675fedce937bf3c25d4835",
+    "archive_sha256": "7ff44cbbed2fd7b0cb14290444aece9163742d6d491928d9c8204c5a6243c79e",
+    "source_commit": "b0b34818e94dd938d051b501ab7c42c2816a79cc",
+    "version": "1.0.1"
   }
 }
